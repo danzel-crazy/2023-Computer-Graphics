@@ -1,5 +1,5 @@
 # Course: Introduction to Computer Graphics
-## Instructor: [Prof. 王昱舜](https://www.cs.nctu.edu.tw/members/detail/lin)
+## Instructor: [Prof. 王昱舜]
 ## Introduction
 Introduction to Computer Graphics
 ## Office Hours
